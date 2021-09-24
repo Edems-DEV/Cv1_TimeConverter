@@ -1,0 +1,7 @@
+C:\Users\Já\source\repos\Overcomplicated\BackToCsharp\obj\Debug\BackToCsharp.csprojAssemblyReference.cache
+C:\Users\Já\source\repos\Overcomplicated\BackToCsharp\obj\Debug\BackToCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Já\source\repos\Overcomplicated\BackToCsharp\bin\Debug\BackToCsharp.exe.config
+C:\Users\Já\source\repos\Overcomplicated\BackToCsharp\bin\Debug\BackToCsharp.exe
+C:\Users\Já\source\repos\Overcomplicated\BackToCsharp\bin\Debug\BackToCsharp.pdb
+C:\Users\Já\source\repos\Overcomplicated\BackToCsharp\obj\Debug\BackToCsharp.exe
+C:\Users\Já\source\repos\Overcomplicated\BackToCsharp\obj\Debug\BackToCsharp.pdb
