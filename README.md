@@ -21,7 +21,7 @@ Cv1_TimeConverter = repo_name
     <code>etc</code> for other stuff -->
     <p></p>
     <a href="https://github.com/Edems-DEV/Cv1_TimeConverter/stargazers">
-        <img src="https://img.shields.io/github/stars/Edems-DEV/Cv1_TimeConverter?color=%23a9b665&labelColor=%231d2021&style=flat-square">
+        <img src="https://img.shields.io/github/stars/Edems-DEV/Cv1_TimeConverter?color=yellowgreen&labelColor=%231d2021&style=flat-square">
     </a>
     <a href="https://github.com/Edems-DEV/Cv1_TimeConverter/network/members/">
         <img src="https://img.shields.io/github/forks/Edems-DEV/Cv1_TimeConverter?color=%237dae&labelColor=%231d2021&style=flat-square">
