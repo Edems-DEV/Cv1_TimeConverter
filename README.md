@@ -58,8 +58,8 @@ Simple program for converting time (very simple)
 
 ### Configure
 
-3. Run it! `[F5]`
-4. **_enjoy_**
+2. Run it! `[F5]`
+3. **_enjoy_**
 
    <br/>
    </details>
