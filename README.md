@@ -58,9 +58,8 @@ Simple program for converting time (very simple)
 
 ### Configure
 
-3. make your or use premade rutines in `Class/rutine.py`<br/>
-4. Run it! `[F5]`
-5. **_enjoy_**
+3. Run it! `[F5]`
+4. **_enjoy_**
 
    <br/>
    </details>
